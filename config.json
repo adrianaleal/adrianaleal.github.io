@@ -3,7 +3,7 @@
   "username": "adrianaleal",
   "name": "Adriana Leal",
   "userimg": "https://avatars.githubusercontent.com/u/39912527?v=4",
-  "sort": "updated",
+  "sort": "created",
   "order": "asc",
   "includeFork": false,
   "theme": "light.css",
@@ -11,7 +11,7 @@
    "owner"
   ],
   "twitter": null,
-  "googlescholar": "https://scholar.google.com/citations?hl=en&user=fJmWzPcAAAAJ",
+  "googlescholar":"https://scholar.google.com/citations?user=fJmWzPcAAAAJ&hl=en"
   "linkedin": "adriana-costa-leal",
   "medium": null,
   "dribbble": null
